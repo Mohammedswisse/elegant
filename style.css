@@ -16,6 +16,14 @@ header {
     background: #f9f9f9;
 }
 
+h1 {
+    color: green;
+}
+
+p {
+    color: red
+}
+
 img {
     width: 75%;
     display: block;
